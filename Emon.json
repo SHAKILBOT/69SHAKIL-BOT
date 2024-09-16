@@ -4,16 +4,16 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "OPERATORNAME": "EMON HAWLADAR",
-  "OPERATORID": "100075290587473",
-  "OPERATORLINK": "https://www.facebook.com/EMon.BHai.FACEBOOK",
-  "BOTNAME": "EMon-BHai-BOT",
+  "OPERATORNAME": "Nowrin Sabiha",
+  "OPERATORID": "61564969921153",
+  "OPERATORLINK": "https://www.facebook.com/profile.php?id=61564969921153",
+  "BOTNAME": "AI CHAT-BOT PRO",
   "PREFIX": "+",
   "OPERATOR": [
-    "100075290587473"
+    "61564969921153"
   ],
   "ADMINBOT": [
-    "100075290587473",
+    "100072158340523",
     "uid",
     "uid"
   ],

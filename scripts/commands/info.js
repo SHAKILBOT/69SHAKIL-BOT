@@ -30,22 +30,18 @@ var callback = () => api.sendMessage({body:` আসালামু আলাই�
 
 --------------------------------------------
 
-FACEBOOK :  EMON HAWLADAR 
-
-GENDER : MALE
-
-Age : 23+
-
-Relationship : SINGLE 😓
-
-Work : JOB Malaysia
-
-FACEBOOK LINK : https://www.facebook.com/EMon.BHai.FACEBOOK
-
-Wp : wa.me/+8801309991724
-
+NAME       : SHAKIL AHMED
+FACEBOOK : SH AK IL
+RELIGION   : ISLAM
+PERMANENT ADDRESS : DHAKA
+CURRENT ADDRESS : DHAKA
+GENDER   : MALE
+AGE           : 17+
+RELATIONSHIP : SINGLE
+WORK        : STUDENT
+WHATSAPP : wa.me/+8801826084628
+FACEBOOK LINK : https://www.facebook.com/shakil.8901 
 TELEGRAM : আ্ঁম্মু্ঁ এ্ঁগু্ঁলা্ঁ চা্ঁলা্ঁতে্ঁ মা্ঁনা্ঁ ক্ঁরে্ঁছে্ঁ🐰💦
-
 Mail : আ্ঁব্বু্ঁ ব্ঁলে্ঁছে্ঁ জি্ঁমে্ঁল্ঁ দি্ঁলে্ঁ বি্ঁয়া্ঁ ক্ঁরা্ঁবে্ঁ না্ঁহ্ঁ🐰💦
 
 ➟ UPTIME

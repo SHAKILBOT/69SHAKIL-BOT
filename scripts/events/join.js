@@ -56,7 +56,7 @@ axios.get(gifUrl, { responseType: 'arraybuffer' })
     fs.writeFileSync(gifPath, response.data);
   if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) {
     api.changeNickname(`[ ${global.config.PREFIX} ] • ➠${(!global.config.BOTNAME) ? "bot" : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
-    return api.sendMessage("চলে এসেছি আমি ইমন বট তোমাদের মাঝে🤭!", event.threadID, () => api.sendMessage({ body: `${global.config.BOTNAME} CONNECTED«\n\nAssalamualaykum☘️
+    return api.sendMessage("চলে এসেছি আমি শাকিল বট তোমাদের মাঝে🤭!", event.threadID, () => api.sendMessage({ body: `${global.config.BOTNAME} CONNECTED«\n\nAssalamualaykum☘️
 <------------------------------>  
 BOT CONNECTED SUCCESFUL !!! 
 
@@ -66,15 +66,19 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER : EMON HAWLADAR
-
-🟣Facebook Account Link: 
-
-https://www.facebook.com/EMon.BHai.FACEBOOK
-
-🔵WHATSAPP NUMBER: wa.me/+8801309991724
-
-🟢SUPPORT EMAIL: emonhawladar311@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
+NAME       : SHAKIL AHMED
+FACEBOOK : SH AK IL
+RELIGION   : ISLAM
+PERMANENT ADDRESS : DHAKA
+CURRENT ADDRESS : DHAKA
+GENDER   : MALE
+AGE           : 16+
+RELATIONSHIP : SINGLE
+WORK        : STUDENT
+GMAIL       : shakil.ahmed89018@gmail.com
+WHATSAPP : wa.me/+8801826084628
+TELEGRAM  : t.me/Shakil89018
+FACEBOOK LINK : https://www.facebook.com/shakil.8901`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
 .catch(error => {
     console.error(error);
